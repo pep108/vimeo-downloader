@@ -1,4 +1,4 @@
-### Browser Support
+### Browser Compatibility
 
 The vimeo downloader currently only works with Google Chrome. It uses the latest manifest v3 which will be supported by Mozilla in the near future, so keep an eye out for the FireFox add-on.
 
