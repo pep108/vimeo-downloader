@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+### Browser Support
 
-You can use the [editor on GitHub](https://github.com/pep108/vimeo-downloader/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pep108/vimeo-downloader/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The vimeo downloader currently only works with Google Chrome. It uses the latest manifest v3 which will be supported by Mozilla in the near future, so keep an eye out for the FireFox add-on.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with the vimeo downloader extension?
+
+Create an issue or send me a DM and I'll help you out.
